@@ -2,11 +2,6 @@
 
 1. **Clone or download this repository**
 
-```
-git clone https://github.com/VitalikM95/test-reviews.git
-cd <project-folder>
-```
-
 2. **Install dependencies**
 
 ```
