@@ -3,7 +3,7 @@
 1. **Clone or download this repository**
 
 ```
-git clone <repo-url>
+git clone https://github.com/VitalikM95/test-reviews.git
 cd <project-folder>
 ```
 
